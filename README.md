@@ -65,4 +65,4 @@ Email: sue@myapp.com
 
 GitHub Profile: [smiller-2019](https://github.com/smiller-2019/)
 
-GitHub Repository: [smiller-2019](https://github.com/smiller-2019/Goods-The-Shop)
+GitHub Repository: [Goods-The-Shop](https://github.com/smiller-2019/Goods-The-Shop)
